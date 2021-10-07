@@ -1,0 +1,25 @@
+{
+    "name": "image-uploader",
+    "version": "1.0.0",
+    "description": "<!-- Please update value in the {}  -->",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon server.js localhost 8080"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Nathan-Yan-Alves/Image-Uploader.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Nathan-Yan-Alves/Image-Uploader/issues"
+    },
+    "homepage": "https://github.com/Nathan-Yan-Alves/Image-Uploader#readme",
+    "dependencies": {
+        "express": "^4.17.1",
+        "firebase": "^9.1.1",
+        "open": "^8.2.1"
+    }
+}

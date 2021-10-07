@@ -1,0 +1,11 @@
+.imgInput {
+    width: 100%;
+    padding: 3.5rem;
+
+    border: 1px dashed #97bef4;
+    border-radius: 0.8rem;
+}
+
+.imgInput img {
+    margin-bottom: 3.7rem;
+}

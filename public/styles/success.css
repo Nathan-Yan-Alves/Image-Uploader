@@ -1,0 +1,36 @@
+.checkIcon {
+    width: 40px;
+    height: 40px;
+
+    margin-bottom: 1rem;
+}
+
+#submittedImg {
+    width: auto;
+    height: auto;
+    max-width: 338px;
+    max-height: 225px;
+
+    margin: 2.5rem 0;
+
+    border-radius: 0.8rem;
+}
+
+#imageUrl {
+    height: 3.5rem;
+
+    background: #f6f8fb;
+    border: 1px solid #e0e0e0;
+    border-radius: 0.8rem;
+}
+
+#btnCopy {
+    position: absolute;
+    right: 1%;
+
+    border-radius: 0.8rem;
+}
+
+.pos-relative {
+    position: relative;
+}
